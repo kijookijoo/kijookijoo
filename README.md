@@ -1,8 +1,6 @@
-# Kijoo Yoon
-
-
+Hi!
 <p>
- I’m a third-year Computer Science student at the University of British Columbia in the AI option. I like building software and AI systems that solve real problems and that I’d actually want to use myself.
+My name is Kijoo, and I'm a third-year Computer Science student at the University of British Columbia in the AI option. I like building software and AI systems that solve real problems and that I’d actually want to use myself.
 
 I'm currently working on a self-driving car project, training a convolutional neural network model from scratch using PyTorch!
 </p>
