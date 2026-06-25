@@ -1,4 +1,4 @@
-# Kijoo Yoon
+[# Kijoo Yoon
 
 
 <p>
@@ -130,3 +130,4 @@ I'm currently working on a self-driving car project, training a convolutional ne
     Website
   </a>
 </p>
+](https://www.youtube.com/watch?v=q33pkF_ZuyE)
