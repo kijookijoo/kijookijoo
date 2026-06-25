@@ -1,4 +1,4 @@
-[# Kijoo Yoon
+# Kijoo Yoon
 
 
 <p>
@@ -12,112 +12,40 @@ I'm currently working on a self-driving car project, training a convolutional ne
 
 ### Languages
 
-<table>
-  <tr>
-    <td align="center" width="120" bgcolor="#3776AB">
-      <img src="https://cdn.simpleicons.org/python/FFFFFF" width="36" height="36" alt="Python" /><br><strong style="color:#FFFFFF;">Python</strong>
-    </td>
-    <td align="center" width="120" bgcolor="#3178C6">
-      <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="36" height="36" alt="TypeScript" /><br><strong style="color:#FFFFFF;">TypeScript</strong>
-    </td>
-    <td align="center" width="120" bgcolor="#F7DF1E">
-      <img src="https://cdn.simpleicons.org/javascript/111111" width="36" height="36" alt="JavaScript" /><br><strong style="color:#111111;">JavaScript</strong>
-    </td>
-    <td align="center" width="120" bgcolor="#ED8B00">
-      <strong style="color:#111111;">Java</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120" bgcolor="#A8B9CC">
-      <img src="https://cdn.simpleicons.org/c/111111" width="36" height="36" alt="C" /><br><strong style="color:#111111;">C</strong>
-    </td>
-    <td align="center" width="120" bgcolor="#00599C">
-      <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="36" height="36" alt="C++" /><br><strong style="color:#FFFFFF;">C++</strong>
-    </td>
-    <td align="center" width="120" bgcolor="#4479A1">
-      <img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="36" height="36" alt="SQL" /><br><strong style="color:#FFFFFF;">SQL</strong>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks
 
-<table>
-  <tr>
-    <td align="center" width="140" bgcolor="#61DAFB">
-      <img src="https://cdn.simpleicons.org/react/111111" width="36" height="36" alt="React" /><br><strong style="color:#111111;">React</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#000000">
-      <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="36" height="36" alt="Next.js" /><br><strong style="color:#FFFFFF;">Next.js</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#000000">
-      <img src="https://cdn.simpleicons.org/express/FFFFFF" width="36" height="36" alt="Express.js" /><br><strong style="color:#FFFFFF;">Express.js</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#009688">
-      <img src="https://cdn.simpleicons.org/fastapi/FFFFFF" width="36" height="36" alt="FastAPI" /><br><strong style="color:#FFFFFF;">FastAPI</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140" bgcolor="#38BDF8">
-      <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" width="36" height="36" alt="Tailwind CSS" /><br><strong style="color:#111111;">Tailwind CSS</strong>
-    </td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### AI / ML
 
-<table>
-  <tr>
-    <td align="center" width="140" bgcolor="#EE4C2C">
-      <img src="https://cdn.simpleicons.org/pytorch/FFFFFF" width="36" height="36" alt="PyTorch" /><br><strong style="color:#FFFFFF;">PyTorch</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#150458">
-      <img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="36" height="36" alt="Pandas" /><br><strong style="color:#FFFFFF;">Pandas</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#F7931E">
-      <img src="https://cdn.simpleicons.org/scikitlearn/111111" width="36" height="36" alt="Scikit-learn" /><br><strong style="color:#111111;">Scikit-learn</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#5C3EE8">
-      <img src="https://cdn.simpleicons.org/opencv/FFFFFF" width="36" height="36" alt="OpenCV" /><br><strong style="color:#FFFFFF;">OpenCV</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#1C3C3C">
-      <img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="36" height="36" alt="LangChain" /><br><strong style="color:#FFFFFF;">LangChain</strong>
-    </td>
-  </tr>
-</table>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=111111)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Databases, Cloud & Tools
 
-<table>
-  <tr>
-    <td align="center" width="140" bgcolor="#4479A1">
-      <img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="36" height="36" alt="MySQL" /><br><strong style="color:#FFFFFF;">MySQL</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#47A248">
-      <img src="https://cdn.simpleicons.org/mongodb/FFFFFF" width="36" height="36" alt="MongoDB" /><br><strong style="color:#FFFFFF;">MongoDB</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#22C55E">
-      <img src="https://cdn.simpleicons.org/chroma/111111" width="36" height="36" alt="ChromaDB" /><br><strong style="color:#111111;">ChromaDB</strong>
-    </td>
-    <td align="center" width="140" bgcolor="#DC2626">
-      <img src="https://cdn.simpleicons.org/qdrant/FFFFFF" width="36" height="36" alt="Qdrant" /><br><strong style="color:#FFFFFF;">Qdrant</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120" bgcolor="#FF9900">
-      <img src="https://cdn.simpleicons.org/amazonaws/111111" width="36" height="36" alt="AWS" /><br><strong style="color:#111111;">AWS</strong>
-    </td>
-    <td align="center" width="120" bgcolor="#2496ED">
-      <img src="https://cdn.simpleicons.org/docker/FFFFFF" width="36" height="36" alt="Docker" /><br><strong style="color:#FFFFFF;">Docker</strong>
-    </td>
-    <td align="center" width="120" bgcolor="#FCC624">
-      <img src="https://cdn.simpleicons.org/linux/111111" width="36" height="36" alt="Linux" /><br><strong style="color:#111111;">Linux</strong>
-    </td>
-    <td align="center" width="120" bgcolor="#F05032">
-      <img src="https://cdn.simpleicons.org/git/FFFFFF" width="36" height="36" alt="Git" /><br><strong style="color:#FFFFFF;">Git</strong>
-    </td>
-  </tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-22C55E?style=for-the-badge&logoColor=111111)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=111111)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Socials
 
@@ -130,4 +58,3 @@ I'm currently working on a self-driving car project, training a convolutional ne
     Website
   </a>
 </p>
-](https://www.youtube.com/watch?v=q33pkF_ZuyE)
