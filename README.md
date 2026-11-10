@@ -1,8 +1,6 @@
 Hi!
 <p>
-My name is Kijoo, and I'm a third-year Computer Science student at the University of British Columbia in the AI option. I like building software and AI systems that solve real problems and that I’d actually want to use myself.
-
-I'm currently working on a self-driving car project, training a convolutional neural network model from scratch using PyTorch!
+My name is Kijoo, and I am a third-year Computer Science student at the University of British Columbia. I am interested in software development and currently working as a Software Engineering Co-op at Procurify, where I get to apply what I learn in school to real-world engineering problems.
 </p>
 
 
