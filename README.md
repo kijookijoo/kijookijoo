@@ -1,4 +1,4 @@
-Hi!
+<h2>About Me</h2>
 
 My name is Kijoo Yoon, and I'm a third-year Computer Science student at the University of British Columbia (grad May 2028).
 
