@@ -1,20 +1,22 @@
 Hi!
-<p>
-My name is Kijoo, and I am a third-year Computer Science student at the University of British Columbia. I am interested in software development and currently working as a Software Engineering Co-op at Procurify, where I get to apply what I learn in school to real-world engineering problems.
-</p>
+
+My name is Kijoo Yoon, and I'm a third-year Computer Science student at the University of British Columbia (grad May 2028).
+
+I'm interested in software engineering, particularly AI systems, backend infrastructure, and distributed systems. I've worked on RAG-based AI applications and backend engineering, and I'm currently working as a Full-stack Software Engineering Co-op at Procurify.
+
+Outside of coding, I'm always looking for new things to learn and build.
+
+Get in touch: LinkedIn (https://www.linkedin.com/in/kijooyoon/) · Website (https://kijoo.dev/) · Email (kijoo@kijoo.dev)
 
 
 ## Tech Stacks
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks
 
@@ -22,7 +24,6 @@ My name is Kijoo, and I am a third-year Computer Science student at the Universi
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### AI / ML
 
@@ -36,21 +37,8 @@ My name is Kijoo, and I am a third-year Computer Science student at the Universi
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-22C55E?style=for-the-badge&logoColor=111111)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=111111)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Socials
-
-<p>
-  <a href="https://www.linkedin.com/in/kijooyoon/" target="_blank" rel="noopener noreferrer">
-    LinkedIn
-  </a>
-
-  <a href="https://kijoo.dev/" target="_blank" rel="noopener noreferrer">
-    Website
-  </a>
-</p>
