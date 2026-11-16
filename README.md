@@ -4,9 +4,14 @@ My name is Kijoo Yoon, and I'm a third-year Computer Science student at the Univ
 
 I'm interested in software engineering, particularly AI systems, backend infrastructure, and distributed systems. I've worked on RAG-based AI applications and backend engineering, and I'm currently working as a Full-stack Software Engineering Co-op at Procurify.
 
-Outside of coding, I'm always looking for new things to learn and build.
+I'm always looking for new things to learn and build!
 
-Get in touch: LinkedIn (https://www.linkedin.com/in/kijooyoon/) · Website (https://kijoo.dev/) · Email (kijoo@kijoo.dev)
+Get in touch: 
+<p align="left">
+  <a href="https://www.linkedin.com/in/kijooyoon/">LinkedIn</a> &nbsp; • &nbsp;
+  <a href="https://kijoo.dev/">Website</a> &nbsp; • &nbsp;
+  <a>Email: kijoo@kijoo.dev</a>
+</p>
 
 
 ## Tech Stacks
