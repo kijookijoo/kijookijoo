@@ -10,7 +10,7 @@ Get in touch:
 <p align="left">
   <a href="https://www.linkedin.com/in/kijooyoon/">LinkedIn</a> &nbsp; • &nbsp;
   <a href="https://kijoo.dev/">Website</a> &nbsp; • &nbsp;
-  <a>Email: kijoo@kijoo.dev</a>
+  <a>kijoo@kijoo.dev</a>
 </p>
 
 
