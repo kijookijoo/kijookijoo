@@ -7,10 +7,10 @@ I'm interested in software engineering, particularly AI systems, backend infrast
 I'm always looking for new things to learn and build!
 
 Get in touch: 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kijooyoon/">LinkedIn</a> &nbsp; • &nbsp;
-  <a href="https://kijoo.dev/">Website</a> &nbsp; • &nbsp;
-  <a>kijoo@kijoo.dev</a>
+<p>
+  <a href="https://www.linkedin.com/in/kijooyoon/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://kijoo.dev/" target="_blank" rel="noopener noreferrer">Website</a> ·
+  <a href="mailto:kijoo@kijoo.dev">kijoo@kijoo.dev</a>
 </p>
 
 
